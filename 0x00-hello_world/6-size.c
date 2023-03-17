@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
- * main - Entry point
- *
+ * main - Entry point the program for the 64 and 32 bit
  * Return: Always 0 (Success)
  */
 int main(void)
