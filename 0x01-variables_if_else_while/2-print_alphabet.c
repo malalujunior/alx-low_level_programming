@@ -14,5 +14,8 @@ int main(void)
 		n++;
 	}
 	putchar('\n');
+	/**
+	 * description 'print alphabets lowercase'
+	 */
 	return (0);
 }
