@@ -2,13 +2,14 @@
 
 /**
  * _strncat - concatenate two strings
- * using t the most and bytes from src
+ * using at most n bytes from src
  * @dest: input value
  * @src: input value
  * @n: input value
  *
- * return: dest
+ * Return: dest
  */
+
 
 char *_strncat(char *dest, char *src, int n)
 {
